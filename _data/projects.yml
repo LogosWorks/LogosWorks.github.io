@@ -1,0 +1,9 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Explorers Guild, Fantasy Grounds College
+  role:  Co-Founder, Developer
+  duration: 2014 &mdash; 2018
+  url: "https://explorers-guild.github.io/"
+  description: Fantasy Grounds College, a group of like minded individuals from across the globe requested a solution that would allow them to better communicate across the world. I provided a logistics solution and Web interface to enable over 100 players to play tabletop games with each other in a persistant world.
