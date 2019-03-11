@@ -1,9 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# Explorers Guild
 - project: Explorers Guild, Fantasy Grounds College
-  role:  Co-Founder, Developer
+  role: Co-Founder, Developer
   duration: 2014 &mdash; 2018
   url: "https://explorers-guild.github.io/"
   description: Fantasy Grounds College, a group of like minded individuals from across the globe requested a solution that would allow them to better communicate across the world. I provided a logistics solution and Web interface to enable over 100 players to play tabletop games with each other in a persistant world.
+
+# Minecraft
+- project: Minecraft
+  duration: 2010 &mdash; Current
+  description: I have constructed multiple modpacks for Minecraft. I have also studied its benifits and uses in education. In general it is a easy way to get many students interested with significant but enjoyable prep time. What is lost in focus is made up for in intrest.
