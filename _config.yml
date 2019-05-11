@@ -36,7 +36,7 @@ resume_header_intro: "<p>Technician with vast IT experience. Skills include prog
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+resume_section_projects:        false
 resume_section_skills:          true
 resume_section_recognition:     true
 # resume_section_links:           true
