@@ -1,6 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: Grace Bible Church
+  year: 2005 &mdash; Present
+  url: https://gracebibleroseville.com/
+  summary: Part of the church family, Lawn Mininisty and Technology 
+
 - organization: Dynamite Jazz Band
   role: Leader
   year: 2011 &mdash; 2014
