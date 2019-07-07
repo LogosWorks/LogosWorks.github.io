@@ -17,10 +17,10 @@ resume_title:                   "Technician"
 resume_contact_email:           "thomas.edgerton@me.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "1.916.276.4729"
+resume_contact_telephone:       "1.916.218.5369"
 resume_contact_address:         "216 Hickory Street, Roseville CA"
 
-resume_header_contact_info:     "216 Hickory St. Roseville CA • 1.916.276.4729 • thomas.edgerton@me.com"
+resume_header_contact_info:     "216 Hickory St. Roseville CA • 1.916.218.5369 • thomas.edgerton@me.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Technician with vast IT experience. Skills include programming, networking, and de-mystifying the understandably overwhelming world of IT.</p><p>I believe student-centric mastery based education is the key to preparing future generations for the challenges of today and tomorrow.</p>"
